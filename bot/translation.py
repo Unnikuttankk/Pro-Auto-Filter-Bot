@@ -5,7 +5,7 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
+<i>ഹലോ ഞാൻ ഒരു ബോട്ട് ആണെ....😉
 
 Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
 
@@ -43,7 +43,7 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@CrazyBotsz
+@Unlimtedmovie00
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
