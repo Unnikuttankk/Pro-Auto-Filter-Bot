@@ -5,17 +5,17 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot v4....😉
+I AM A BOT ON FILM GALLERY WE GIVE ALL MOVIE 
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+
 
 For More Details Click Help Button Below..
 
-@M_STER_TECH
+@Unlimtedmovie00
 </i>"""    
     
     HELP_TEXT = """
-<b><i><u>How To Use Me!?</u></i></b>
+
 
 <i>
 -> Add Me To Any Group And Make Me Admin
@@ -44,10 +44,10 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@M_STER_TECH
+@Unlimtedmovie00
 """
     
-    ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
+    ABOUT_TEXT = """<b>➥ Name</b> : <code> FILM GALLERY</code>
     
-<b>➥ Creator</b> : @CYBER_YT1
+<b>➥ Creator</b> : @Unlimtedmovie00
 """
